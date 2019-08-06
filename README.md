@@ -7,7 +7,7 @@
 - Dependencies
   - Python 3.6+
   - PyTorch==1.1
-  - Codes are heavily inspired by [https://joshfeldman.net], [https://medium.com/@albertoarrigoni]
+  - Codes are heavily inspired by https://joshfeldman.net, [https://medium.com/@albertoarrigoni]
 
 ### Reference
 1. [Weight Uncertainty in Neural Networks]
