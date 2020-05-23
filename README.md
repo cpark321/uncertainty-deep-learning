@@ -8,7 +8,7 @@
 - Dependencies
   - Python 3.6+
   - PyTorch==1.1
-  - Codes are heavily inspired by https://joshfeldman.net, [medium.com/@albertoarrigoni], [github.com/gpleiss/temperature_scaling]
+  - Codes are heavily inspired by https://joshfeldman.net, [medium.com/@albertoarrigoni], [github.com/gpleiss/temperature_scaling], [www.jessicayung.com]
 
 ### Reference
 1. [Weight Uncertainty in Neural Networks]
@@ -24,3 +24,4 @@
 [medium.com/@albertoarrigoni]: https://medium.com/@albertoarrigoni/paper-review-code-deep-ensembles-nips-2017-c5859070b8ce
 [github.com/gpleiss/temperature_scaling]: https://github.com/gpleiss/temperature_scaling[
 [On Calibration of Modern Neural Networks]: https://arxiv.org/abs/1706.04599
+[www.jessicayung.com]: http://www.jessicayung.com/maximum-likelihood-as-minimising-kl-divergence/
